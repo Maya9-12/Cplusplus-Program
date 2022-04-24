@@ -1,0 +1,6 @@
+The idea behind the final project was to design and create code that would sort and output a list of courses in the computer science program at ABCU.
+I first approached this problem by desiging a pseudocode for different parts of my program. For example, I created a pseudoode for the menu and parts
+of my code that would load data and print it. This was a crucial element in the creation of the actual code, acting as a guide. The most troublesome
+obstacle I encountered while developing the code for this project was trying to get the "load data structure" vector to function properly. My problem 
+during this was that I did not create a loop for classes tha contained prerequisites. This project showed me the importance of pseudocodes and planning
+your code beforehand, to help make the development of coding smoother and easier.
